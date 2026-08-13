@@ -1,4 +1,4 @@
-# GitHub Learning Lab
+# GitHub Platform CI/CD Course
 
 Repositorio de aprendizaje práctico para dominar GitHub como plataforma y GitHub Actions para integraciones CI/CD.
 
