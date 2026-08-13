@@ -20,3 +20,7 @@ Al finalizar este módulo podrás:
 - `examples/`: ejemplos básicos
 - `exercises/`: ejercicios prácticos
 - `checklist.md`: lista de verificación del módulo
+
+## Nota práctica
+
+Este módulo se está utilizando para practicar el flujo de ramas y pull requests directamente en GitHub.
