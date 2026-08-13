@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/noeltelesforo7/github-platform-cicd-course
-cd github-platform-ci/cd-course
+cd github-platform-cicd-course
 git checkout -b feature/primer-modulo
 echo "Aprendiendo GitHub" >> README.md
 git add README.md
