@@ -1,0 +1,19 @@
+name: Deploy to Production
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy-production:
+    runs-on: ubuntu-latest
+    environment: production
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Show target environment
+        run: echo "Entorno objetivo: production"
+
+      - name: Simulate production deploy
+        run: echo "Desplegando aplicación a production..."
